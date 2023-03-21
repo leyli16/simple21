@@ -1,4 +1,5 @@
 # simple21
+
 This is a simplified version of a common card game, "21". Blackjack is a better-known variant.
 In this game, the dealer deals two "cards" to each player, one hidden, so that only the player
 who gets it knows what it is, and one face up, so that everyone can see it. (Actually, what the
@@ -8,6 +9,7 @@ players. To play, the players take turns requesting cards, trying to get as clos
 possible, but not going over 21. A player may pass (ask for no more cards). Once a player has
 passed, he or she cannot later ask for another card. When all players have passed, the game
 ends.
+
 The winner is the player who has come closest to 21 without exceeding it. In the case of a tie,
 or if everyone goes over 21, no one wins.
 The game is only played once (so it's actually just one "hand").
